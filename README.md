@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sreya97/ProblemSolving/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sreya97/ProblemSolving/tree/master/0155-min-stack) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
