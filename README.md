@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sreya97/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
