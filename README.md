@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sreya97/ProblemSolving/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/sreya97/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sreya97/ProblemSolving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Counting
 |  |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sreya97/ProblemSolving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 <!---LeetCode Topics End-->
