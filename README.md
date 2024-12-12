@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sreya97/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sreya97/ProblemSolving/tree/master/0054-spiral-matrix) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sreya97/ProblemSolving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
