@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sreya97/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sreya97/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sreya97/ProblemSolving/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/sreya97/ProblemSolving/tree/master/0155-min-stack) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
