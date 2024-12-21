@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/sreya97/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sreya97/ProblemSolving/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sreya97/ProblemSolving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
