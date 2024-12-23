@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/sreya97/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreya97/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sreya97/ProblemSolving/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/sreya97/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
+| [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sreya97/ProblemSolving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Counting
