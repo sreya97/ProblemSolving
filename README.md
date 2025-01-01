@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sreya97/ProblemSolving/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/sreya97/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sreya97/ProblemSolving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sreya97/ProblemSolving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sreya97/ProblemSolving/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Two Pointers
 |  |
 | ------- |
