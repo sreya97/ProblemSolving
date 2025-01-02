@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreya97/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sreya97/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sreya97/ProblemSolving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sreya97/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sreya97/ProblemSolving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Counting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sreya97/ProblemSolving/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/sreya97/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
