@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sreya97/ProblemSolving/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sreya97/ProblemSolving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sreya97/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sreya97/ProblemSolving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sreya97/ProblemSolving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sreya97/ProblemSolving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sreya97/ProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sreya97/ProblemSolving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sreya97/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sreya97/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sreya97/ProblemSolving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/sreya97/ProblemSolving/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sreya97/ProblemSolving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sreya97/ProblemSolving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
