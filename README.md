@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sreya97/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/sreya97/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sreya97/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/sreya97/ProblemSolving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreya97/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/sreya97/ProblemSolving/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sreya97/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/sreya97/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
+| [0952-word-subsets](https://github.com/sreya97/ProblemSolving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreya97/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sreya97/ProblemSolving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sreya97/ProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sreya97/ProblemSolving/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/sreya97/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
+| [0952-word-subsets](https://github.com/sreya97/ProblemSolving/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/sreya97/ProblemSolving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sreya97/ProblemSolving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
