@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/sreya97/ProblemSolving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreya97/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/sreya97/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sreya97/ProblemSolving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sreya97/ProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sreya97/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/sreya97/ProblemSolving/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/sreya97/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sreya97/ProblemSolving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sreya97/ProblemSolving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/sreya97/ProblemSolving/tree/master/1651-shuffle-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sreya97/ProblemSolving/tree/master/0383-ransom-note) |
+| [1502-construct-k-palindrome-strings](https://github.com/sreya97/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/sreya97/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/sreya97/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
 ## Linked List
 |  |
 | ------- |
